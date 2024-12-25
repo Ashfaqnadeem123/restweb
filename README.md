@@ -383,25 +383,29 @@ body {
 
 ## OUTPUT:
 Home page
-![bak1](https://github.com/user-attachments/assets/9c20991f-0028-4b2c-a881-fad0a950f4af)
-![bak2](https://github.com/user-attachments/assets/9ecb724c-e541-41aa-a02b-151d04ecb6e0)
+![Screenshot 2024-12-25 120435](https://github.com/user-attachments/assets/8da1235e-6afc-4cca-99d4-516db4964c7e)
+![Screenshot 2024-12-25 120451](https://github.com/user-attachments/assets/d3c5a8a6-ad50-403b-984b-685c4f71d2d8)
+
 
 menu page
-![bak3](https://github.com/user-attachments/assets/54eb53f3-ceb3-4ef9-aa7d-ca5e9d9bd055)
-![bak4-2](https://github.com/user-attachments/assets/33cf43f4-c491-4227-8df9-713223ca3500)
+![Screenshot 2024-12-25 120616](https://github.com/user-attachments/assets/e637bf18-f851-4d5d-aa5b-cb6006e2cac9)
+![Screenshot 2024-12-25 120629](https://github.com/user-attachments/assets/f0e25a24-73e8-4494-b6e6-1bffce3d7530)
+
 
 seat booking
-![bak5](https://github.com/user-attachments/assets/46941ffb-63f6-44c0-aae7-43fac5c84386)
-![bak6](https://github.com/user-attachments/assets/e0ba3092-7ead-4a04-8d6d-1e5edfd98ebd)
+![Screenshot 2024-12-25 120727](https://github.com/user-attachments/assets/8c68319e-1137-4b79-80e9-7e475cee7d1b)
+![Screenshot 2024-12-25 120735](https://github.com/user-attachments/assets/05887971-292d-44e7-acb0-36f9efc49380)
+
 
 contacts page
-![bak7](https://github.com/user-attachments/assets/293c45f5-fae1-495d-8026-386f7ef9e80f)
-![bak8-2](https://github.com/user-attachments/assets/a269f535-4856-4861-853e-e6e4faa128d6)
+![Screenshot 2024-12-25 120822](https://github.com/user-attachments/assets/e427e5a3-4360-4edc-af25-ff4d06ceea13)
+![Screenshot 2024-12-25 120830](https://github.com/user-attachments/assets/e795e770-c1fe-42de-aa99-d9e7d8846d58)
+
  
 Administration page
+![Screenshot 2024-12-25 120916](https://github.com/user-attachments/assets/8e9f5196-7469-4f46-95d1-9403e78a74ff)
+![Screenshot 2024-12-25 120927](https://github.com/user-attachments/assets/64fdce37-da6a-4392-8648-0d6331adfd10)
 
-![bakk9](https://github.com/user-attachments/assets/17cbd1c0-8865-4745-b82f-cdfd95f99e6a)
-![bak10](https://github.com/user-attachments/assets/bf56d916-4dcd-482e-93bb-c50ed3e4480c)
 
 
 ## RESULT:
